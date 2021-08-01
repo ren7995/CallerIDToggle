@@ -1,0 +1,9 @@
+Package: ma.lau.calleridtoggle
+Name: CallerID Toggle
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak that adds a control center module for toggling Show Caller ID on and off
+Maintainer: ren7995
+Author: ren7995
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport
